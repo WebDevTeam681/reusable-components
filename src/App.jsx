@@ -1,5 +1,11 @@
+import Carousal from "./components/Carousal";
+
 const App = () => {
-  return <div></div>;
+  return (
+    <div>
+      <Carousal />
+    </div>
+  );
 };
 
 export default App;
